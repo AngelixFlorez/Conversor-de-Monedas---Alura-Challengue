@@ -11,7 +11,7 @@ La aplicación presenta una interfaz amigable y fácil de manejar, lo que facili
 Como característica adicional, el proyecto permite realizar conversiones históricas, brindando la posibilidad de consultar el tipo de cambio de fechas específicas en el pasado. Esta funcionalidad es particularmente valiosa para quienes necesitan generar informes financieros o realizar un seguimiento del comportamiento de las monedas a lo largo del tiempo.
 
 
-## :white_check_mark:Tecnologias utilizadas
+## Tecnologias utilizadas
        - Java
        
 ## License
